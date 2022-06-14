@@ -1,0 +1,6 @@
+AMGGT:       "https://gateway.pinata.cloud/ipfs/QmY49h6DDpijrg4VeNJ27uiePS1NXpcdt2osCfwYiYCKn9/";
+Aventador:       "https://gateway.pinata.cloud/ipfs/QmW5f15569vtoJX8E3Fa6coq4tRNkcW6E6ujz44VWD3G65/";
+Gemera:       "https://gateway.pinata.cloud/ipfs/QmXq864qzRQTRHqZQAUbyHkU1wiMmTNZNzp4CqvCbrfFJR/";
+GT3:       "https://gateway.pinata.cloud/ipfs/QmTuVLPBepiDiuysMihvCNeHiV51MtXpxvzYb8kMDwS2nG/";
+Pista:       "https://gateway.pinata.cloud/ipfs/QmXRkAsCEzsu2eQ2mcf7bS8rRuxeDruS1CgiB2jcCUtRyr/";
+Tricolore:       "https://gateway.pinata.cloud/ipfs/QmazVoGFKpbr2js23Mio8rxQpsR2sAhLY7SAtK2xpyS7vX/";
